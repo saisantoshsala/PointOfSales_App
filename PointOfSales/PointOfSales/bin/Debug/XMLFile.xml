@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MSGoods>
+  <items>
+    <item itemName="Shoe" count="1" cost="20" />
+    <item itemName="Glasses" count="1" cost="12.5" />
+    <item itemName="Books" count="1" cost="13" />
+    <item itemName="Socks" count="1" cost="9.5" />
+    <item itemName="Joggers" count="1" cost="10" />
+  </items>
+  <ShippingCost Cost="10" />
+  <TotalCost FinalCost="75" />
+</MSGoods>
